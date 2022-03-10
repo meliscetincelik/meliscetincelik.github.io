@@ -12,8 +12,6 @@ Welcome!
 
 I am a PhD student in the [Language Development Department](https://www.mpi.nl/department/language-development/3) at the Max Planck Institute for Psycholinguistics. My PhD project investigates the role of social and audiovisual cues in early language development, particularly speech perception and word learning. 
 
-Using EEG and eye-tracking methodologies, I am investigating whether social cues such as eye gaze and audiovisual speech enhance infants’ neural entrainment to speech, as well as word segmentation.
-
-I am also interested in the role of joint attention and sustained attention on infants' early word learning. 
+I use EEG to study whether social cues such as eye gaze and audiovisual speech enhance infants’ neural entrainment to speech, as well as word segmentation. I am also investigating the role of joint attention and sustained attention on infants' early word learning in naturalistic interactions. 
 
 
