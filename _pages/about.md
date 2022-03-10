@@ -14,6 +14,6 @@ I am a PhD student in the [Language Development Department](https://www.mpi.nl/d
 
 Using EEG and eye-tracking methodologies, I am investigating whether social cues such as eye gaze and audiovisual speech enhance infants’ neural entrainment to speech, as well as word segmentation.
 
-I am also interested in the role of joint attention and sustained attention in naturalistic interactions on infants' early word learning. 
+I am also interested in the role of joint attention and sustained attention on infants' early word learning. 
 
 
