@@ -1,15 +1,15 @@
 # main links links
 main:
-  # - title: "Publications"
-   # url: /publications/
+# - title: "Publications"
+# url: /publications/
 
- # - title: "Talks"
- #  url: /talks/    
+# - title: "Talks"
+#  url: /talks/    
  
-   - title: "CV"
+  - title: "CV"
     url: /cv/
     
-   - title: "Research"
+  - title: "Research"
     url: /research/
 
   - title: "Teaching"
@@ -17,7 +17,6 @@ main:
           
   - title: "Science Communication"
     url: /science-communication/
-    
     
   - title: "Contact"
     url: /contact/
