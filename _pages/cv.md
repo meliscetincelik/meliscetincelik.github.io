@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* PhD in Cognitive Neuroscience & Psycholinguistics, Max Planck Institute for Psycholinguistics, 2023 (expected)
-* MSc in Brain and Cognitive Sciences (cum laude), University of Amsterdam, 2018
-* BA in Psychology & BA in Philosophy (double major), Koç University, Istanbul, Turkey, 2016
+* PhD in Cognitive Neuroscience & Psycholinguistics, Max Planck Institute for Psycholinguistics, 2018 - presemt
+* MSc in Brain and Cognitive Sciences (Cum Laude), University of Amsterdam, 2018
+* BA in Psychology & BA in Philosophy (double major, Summa Cum Laude), Koç University, Istanbul, Turkey, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023 - present: Researcher
+  * Department of Experimental Psychology, Utrecht University
+  * Supervisor: Dr. Caroline Junge
 
-* Fall 2015: Research Assistant
-  * Github University
+<!---  * Fall 2015: Research Assistant
+ * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub  
   
 Skills
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams  --> 
