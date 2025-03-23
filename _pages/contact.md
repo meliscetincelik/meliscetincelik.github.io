@@ -8,6 +8,4 @@ redirect_from: /resume
 
 {% include base_path %}
 
-You can reach me via e-mail: **melis.cetincelik [at] mpi.nl**
-
-Or find me on Twitter: [@MelisCetincelik](https://twitter.com/meliscetincelik)
+You can reach me via e-mail: **m.cetincelik [at]tilburguniversity.edu**

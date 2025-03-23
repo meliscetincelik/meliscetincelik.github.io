@@ -1,20 +1,21 @@
-# main links links
+# main links
 main:
 
-  - title: "CV"
-    url: /cv/
 
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
-    url: /research/
+  - title: "CV"
+    url: /files/CV_MelisCetincelik.pdf
+    
+ # - title: "Research"
+ #   url: /research/
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
           
-  - title: "Science Outreach"
-    url: /outreach/
+ # - title: "Science Outreach"
+ #   url: /outreach/
     
   - title: "Contact"
     url: /contact/
