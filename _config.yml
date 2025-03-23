@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Melis Çetinçelik"
 title_separator          : "-"
 name                     : &name "Melis Çetinçelik"
-description              : &description "PhD student"
+description              : &description "Postdoctoral Researcher"
 url                      : https://meliscetincelik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meliscetincelik/meliscetincelik.github.io"
@@ -57,12 +57,13 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : MelisCetincelik
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Melis Çetinçelik"
-  avatar           : "profile.png"
-  bio              : "PhD Student, Max Planck Institute for Psycholinguistics"
-  location         : "Nijmegen, The Netherlands"
+  avatar           : "MelisCetincelik_portrait.jpg"
+  bio              : "Postdoctoral Researcher, Department of Cognitive Neuropsychology, Tilburg University"
+  location         : 
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.nl/citations?hl=en&user=PS6xleMAAAAJ"
-  email            : "melis.cetincelik@mpi.nl"
+  email            : "m.cetincelik@tilburguniversity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/melis-cetincelik"
+  orcid            : "https://orcid.org/0000-0002-8931-5732"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MelisCetincelik"
+  twitter          : # "MelisCetincelik"
   vine             :
   weibo            :
   xing             :
